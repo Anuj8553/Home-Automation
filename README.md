@@ -65,6 +65,14 @@ The Mini Home Automation App features a streamlined interface with two main scre
 - Screenshots: Images of the screens are attached below.
 - Documentation: This README file includes setup instructions, feature descriptions, and development decisions.
 
+## Screenshots
 
+### Dashboard Screen
+
+![Dashboard Screen](screenshots/dashboard.png)
+
+### Settings Screen
+
+![Settings Screen](screenshots/settings.png)
 
    
