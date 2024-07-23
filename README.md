@@ -69,21 +69,21 @@ The Mini Home Automation App features a streamlined interface with two main scre
 
 ### Dashboard Screen Dark
 
-![Dashboard Screen](screenshots/DashBoard_Dark.png)
+
 <img src="screenshots/DashBoard_Dark.png" alt="Dashboard Screen" width="350" height="640"/>
 
 ### Dashboard Screen Light
 
-![Dashboard Screen](screenshots/DashBoard_light.png)
+
 <img src="screenshots/DashBoard_light.png" alt="Dashboard Screen" width="350" height="640"/>\
 
 ### Settings Screen Light
 
-![Settings Screen](screenshots/Settings_Dark.png)
+
 <img src="screenshots/Settings_Dark.png" alt="Dashboard Screen" width="350" height="640"/>
 
 ### Settings Screen Dark
 
-![Settings Screen](screenshots/settings_light.png)
+
 <img src="screenshots/settings_light.png" alt="Dashboard Screen" width="350" height="640"/>
    
