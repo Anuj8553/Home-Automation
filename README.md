@@ -1,16 +1,30 @@
-# home_automation
+# Mini Home Automation App
 
-A new Flutter project.
+The Mini Home Automation App features a streamlined interface with two main screens—a Dashboard to monitor and control devices, and a Settings page to adjust user preferences.
 
-## Getting Started
+## Objectives
 
-This project is a starting point for a Flutter application.
+- Develop a functional app focusing on a Dashboard and Settings screen.
+- Utilize Flutter to create a user-friendly and visually appealing interface.
+- Demonstrate effective data handling between UI components and simulated data sources.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Dashboard Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Device Control**: Includes control switches for devices like lights and fans.
+- **Real-Time Data Display**: Displays consumption data for water and gas.
+- **User Info**: Shows user name and email from the Settings screen.
+
+### Settings Screen
+
+- **Theme Changes**: Toggle between light and dark themes.
+- **Notification Settings**: Enable or disable notifications.
+- **User Profile Modifications**: Update and save user name and email.
+
+## Technical Requirements
+
+- **Flutter for Frontend**: Uses the latest stable version of Flutter.
+- **Data Simulation**: Simulates device and sensor data using local JSON files.
+- **Responsive Design**: Ensures the app functions well on both phones and tablets.
+
